@@ -1,11 +1,12 @@
 {
-    "name": "0x00-ES6_basic",
-    "type": "module",
+  "name": "0x00-ES6_basic",
+"type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node 0-main.js",
+    "dev-0": "node 0-main.js",
+    "dev-1": "node 1-main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
