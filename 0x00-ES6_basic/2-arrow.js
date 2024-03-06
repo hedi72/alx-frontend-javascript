@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 export default function getNeighborhoodsList() {
   this.sanFranciscoNeighborhoods = ["SOMA", "Union Square"];
 
